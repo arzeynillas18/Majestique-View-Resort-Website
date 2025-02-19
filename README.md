@@ -6,7 +6,7 @@
 <p>•🏠 <b>Home Page</b> – Showcasing the beauty of the resort with an elegant design.</p>
 <p>•ℹ️ <b>About Page</b> – Learn more about the resort’s history and services.</p>
 <p>•🏡 <b>Accommodation Page</b> – Detailed information on room types, pricing, and amenities.</p>
-<p>•📞 <b>Contact Page</b> – Inquiry form and contact details for reservations.</p>
+<p>•📞 <b>Contact Page</b> – contact details for reservations.</p>
 <p>•👨‍💻 <b>Developers Section</b> – Credits and acknowledgments for the creators.</p>
 
 <p>🛠️ Technologies Used</p>
